@@ -38,7 +38,17 @@ npm i
 yarn
 ```
 
-### 3 - Execute o projeto
+### 3 - Configure as variáveis de ambiente do projeto
+
+#### 3.1 - Crie o arquivo
+
+> .env.development.local
+
+Copie o conteúdo deste arquivo do email que este repositório foi enviado (remetente: pedrofigueira87@gmail.com), cole e salve.
+
+> Obs.: **.env.development.local** (p/ o ambiente de desenvolvimento) ou **.env.production.local** (p/ o ambiente de produção).
+
+### 4 - Execute o projeto
 
 > DEV script = run with Nodemon (nodemon ./bin/www)
 #### npm

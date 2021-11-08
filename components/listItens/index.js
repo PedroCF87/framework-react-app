@@ -15,7 +15,7 @@ const ListItens = props =>   {
         if (props.itemName === 'Álbuns') itemLabel = 'Criado por'
         if (props.itemName === 'TO DOs') itemLabel = 'Responsável'
 
-        return  <div key={id} className="col-12 col-md-6 col-lg-4 col-xl-3 mb-3">
+        return  <div key={id} className="col-12 col-md-6 col-xl-4 mb-3">
                     <div key={id} className="card">
                         <div className="card-body">
                             {completed !== null && <span class={completed ? "badge badge-success mb-2" : "badge badge-danger mb-2" }>
