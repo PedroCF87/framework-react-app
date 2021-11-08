@@ -5,7 +5,7 @@
 
 ### Desenvolvido por Pedro Figueira
 
-### How to use
+### Como executar o projeto
 
 #### Instale as dependências
 
@@ -25,7 +25,7 @@ git clone https://github.com/PedroCF87/framework-react-app.git
 git clone git@github.com:PedroCF87/framework-react-app.git
 ```
 
-### 2 - Install the dependecies
+### 2 - Instale as dependêcias
 
 #### npm
 ```bash
