@@ -1,6 +1,8 @@
 # Desafio técnico Framework
 ## Aplicação NextJS
 
+![Print da aplicação](https://raw.githubusercontent.com/PedroCF87/framework-react-app/master/public/images/PrintDesafio.png)
+
 ### Desenvolvido por Pedro Figueira
 
 ### How to use
