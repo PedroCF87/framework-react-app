@@ -2,7 +2,7 @@ module.exports = {
     contentApiError: {
       error: {
         code: 0,
-        message: 'Erro ao buscar o conteúdo. \nAs variáveis de ambiente não estão configuradas.'
+        message: 'Erro ao buscar o conteúdo. As variáveis de ambiente não estão configuradas. Elas estão no email de resposta do desafio técnico do Pedro Figueira (pedrofigueira87@gmail.com).'
       }
     },
 

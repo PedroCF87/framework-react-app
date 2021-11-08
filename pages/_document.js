@@ -9,9 +9,9 @@ export default class MyDocument extends Document {
     return (
       <Html lang="pt-BR">
         <Head>
-          <link href="/framework-icon-150x150.png" rel="icon" sizes="32x32" />
-          <link href="/framework-icon-300x300.png" rel="icon" sizes="192x192" />
-          <link href="/framework-icon-300x300.png" rel="apple-touch-icon-precomposed" />
+          <link href="/icons/framework-icon-150x150.png" rel="icon" sizes="32x32" />
+          <link href="/icons/framework-icon-300x300.png" rel="icon" sizes="192x192" />
+          <link href="/icons/framework-icon-300x300.png" rel="apple-touch-icon-precomposed" />
           <link
             rel="stylesheet"
             href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.3/css/bootstrap.min.css"
@@ -21,6 +21,7 @@ export default class MyDocument extends Document {
           <style>{`
             .page {
               height: 100vh;
+              padding-bottom: 50px;
               background: #eeeeee8a;
             }
             .card-subtitle {
@@ -28,6 +29,10 @@ export default class MyDocument extends Document {
             }
             .card-title {
               min-height: 112px;
+            }
+            footer img {
+              border-radius: 50%;
+              margin-left: 16px;
             }
           `}</style>
         </Head>
